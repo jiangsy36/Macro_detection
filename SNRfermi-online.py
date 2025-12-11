@@ -280,7 +280,6 @@ if data_records:
     df.to_excel(output_filename, index=False, float_format="%.6e")
     print(f"Data has been exported to: {output_filename}")
     
-    # 绘制结果
     fig, ax = plt.subplots(figsize=(10, 8))
     plt.subplots_adjust(left=0.14, bottom=0.15)
     
@@ -299,5 +298,6 @@ if data_records:
     plt.show()
 else:
     print("No valid data points found")
+
 
 
