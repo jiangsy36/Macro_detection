@@ -17,7 +17,7 @@ White dwarf and Neutron star constraints on Fermi-ball DM.
 
 ## SNRfermi-online.py
 
-The sensitivity curve of TianQin, LISA and Taiji on Fermi-ball DM.
+The sensitivity curves of TianQin, LISA and Taiji on Fermi-ball DM.
 
 ## Fisher-online.py
 
